@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Álcool ou gasolina</string>
+    <string name="alcoolgasolina">Álcool ou Gasolina</string>
+    <string name="bestOption">Saiba melhor opção para abaster seu carro</string>
+    <string name="calculate">Calcular</string>
+    <string name="no_options">Nenhuma opção escolhida</string>
+</resources>
